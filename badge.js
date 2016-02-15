@@ -23,4 +23,4 @@
   a.appendChild(img);
   document.documentElement.appendChild(a);
 
-})("8rem","https://bullg.it/media/vectors/bullgit-logo.svg","https://bullg.it","bullgit logo");
+})("200px","https://bullg.it/media/vectors/bullgit-logo.svg","https://bullg.it","bullgit logo");
