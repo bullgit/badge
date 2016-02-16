@@ -11,8 +11,8 @@
   a.style.backgroundColor = "white";
   a.style.height =  size;
   a.style.width = size;
-  a.style.WebkitClipPath = "polygon(0 0, 0% 100%, 100% 100%)";
-  a.style.clipPath = "polygon(0 0, 0% 100%, 100% 100%)";
+  a.style.WebkitClipPath = "polygon(0 10%, 0 100%, 90% 100%)";
+  a.style.clipPath = "polygon(0 10%, 0 100%, 90% 100%)";
 
   img.style.width = '60%';
   img.style.height = '60%';
