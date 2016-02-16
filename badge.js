@@ -14,8 +14,8 @@
   a.style.WebkitClipPath = "polygon(0 0, 0% 100%, 100% 100%)";
   a.style.clipPath = "polygon(0 0, 0% 100%, 100% 100%)";
 
-  img.style.width = '50%';
-  img.style.height = '50%';
+  img.style.width = '60%';
+  img.style.height = '60%';
   img.style.position = 'absolute';
   img.style.bottom = 0;
   img.style.left = 0;
@@ -23,4 +23,4 @@
   a.appendChild(img);
   document.documentElement.appendChild(a);
 
-})("200px","https://bullg.it/media/vectors/bullgit-logo.svg","https://bullg.it","bullgit logo");
+})("180px","https://bullg.it/media/vectors/bullgit-logo.svg","https://bullg.it","bullgit logo");
