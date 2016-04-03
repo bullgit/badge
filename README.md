@@ -10,6 +10,12 @@ just like you would include any script, include this in your html
 <script src="/path/to/badge.js"></script>
 ```
 
+You can for example use the [rawgit]() cdn like this:
+
+```html
+<script src="https://cdn.rawgit.com/bullgit/badge/master/badge.js"></script>
+```
+
 # License
 
 WTFPL, do use this!
