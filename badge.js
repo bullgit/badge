@@ -1,6 +1,7 @@
 (function (size,image,url,alt) {
   var a = document.createElement('a');
   var img = document.createElement('img');
+  a.id = 'badge';
   a.href = url;
   img.src = image;
   img.alt = alt;
